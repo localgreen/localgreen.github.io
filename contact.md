@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /about/
-title: About Local Green
+permalink: /contact/
+title: Contact details for Local Green
 tags: [food, fresh, greens, lettuce, aquaponics, hip]
 modified: 2014-06-21
 image:
@@ -10,14 +10,9 @@ image:
 
 Looking for the freshest locally grown produce? Well look no further. Here be **Local Green**, bringing you local grown aquaponic greens.
 
-## Concept:
-* Local Green is all about creating the freshest possible produce at the lowest cost to both the consumer and resources.
+## Contact:
 
-## People:
-* Micky V
-* Fab K
-* L Cat
-
-
-
+* In Person: Located just off Chapel in the hip inner burb of Windsor. The Local Green Concept is so amazing that even the street is named Green.
+* Telephono: To be connected
+* Email: conact@localgreen.com.au
 
