@@ -34,11 +34,11 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About
-    url: about/
+    url: /about/
   - title: Articles
     url: articles/
   - title: Contact
-    url: contact/
+    url: /contact/
   - title: Aquaponics
     url: http://aquaculture.ext.wvu.edu/r/download/45622
     external: true
