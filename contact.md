@@ -1,14 +1,12 @@
 ---
 layout: page
-permalink: /contact/
+permalink: contact/
 title: Contact details for Local Green
 tags: [food, fresh, greens, lettuce, aquaponics, hip]
 modified: 2014-06-21
 image:
   feature: so-simple-sample-image-4.jpg
 ---
-
-Looking for the freshest locally grown produce? Well look no further. Here be **Local Green**, bringing you local grown aquaponic greens.
 
 ## Contact:
 

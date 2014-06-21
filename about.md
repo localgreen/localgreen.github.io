@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: about/
 title: About Local Green
 tags: [food, fresh, greens, lettuce, aquaponics, hip]
 modified: 2014-06-21
