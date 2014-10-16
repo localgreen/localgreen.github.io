@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: about/
-title: About Local Green
+title: What Is Local Green
 tags: [food, fresh, greens, lettuce, aquaponics, hip]
 modified: 2014-06-21
 image:
