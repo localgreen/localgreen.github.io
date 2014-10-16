@@ -78,7 +78,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Australia/Melbourne
 pygments:    true
 markdown:    kramdown
 
