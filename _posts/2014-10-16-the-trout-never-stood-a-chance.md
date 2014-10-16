@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The build begins"
-description: "The first prototype"
+title: "They never stood a chance"
+description: "Fish need air too"
 category: articles
 tags: [build]
 comments: true
