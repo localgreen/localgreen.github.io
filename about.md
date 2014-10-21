@@ -8,7 +8,7 @@ image:
   feature: so-simple-sample-image-4.jpg
 ---
 
-Looking for the freshest locally grown produce? Well look no further. Here be **Local Green**, bringing you local grown aquaponic greens.
+Urban Looking for the freshest locally grown produce? Well look no further. Here be **Local Green**, bringing you local grown aquaponic greens.
 
 ## Concept:
 * Local Green is all about creating the freshest possible produce at the lowest cost to both the consumer and resources.
